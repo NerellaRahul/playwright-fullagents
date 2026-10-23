@@ -1,0 +1,17 @@
+- generic [ref=e144]:
+  - generic [ref=e145]: Swag Labs
+  - main [ref=e146]:
+    - form "Login" [ref=e150]:
+      - textbox "Username" [ref=e152]: locked_out_user
+      - textbox "Password" [ref=e154]: secret_sauce
+      - alert [ref=e167]:
+        - button "Dismiss error" [ref=e168] [cursor=pointer]
+        - text: "Epic sadface: Sorry, this user has been locked out."
+      - button "Login" [active] [ref=e156] [cursor=pointer]
+    - generic [ref=e158]:
+      - generic [ref=e159]:
+        - heading "Accepted usernames are:" [level=4] [ref=e160]
+        - text: standard_userlocked_out_userproblem_userperformance_glitch_usererror_uservisual_user
+      - generic [ref=e161]:
+        - heading "Password for all users:" [level=4] [ref=e162]
+        - text: secret_sauce

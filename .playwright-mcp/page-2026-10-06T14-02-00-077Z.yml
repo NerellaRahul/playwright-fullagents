@@ -1,0 +1,54 @@
+- generic [ref=e238]:
+  - generic [ref=e239]:
+    - banner [ref=e240]:
+      - generic [ref=e241]:
+        - generic [ref=e242]:
+          - button "Open Menu" [ref=e243] [cursor=pointer]
+          - img "Open Menu" [ref=e244]
+        - generic [ref=e245]: Swag Labs
+        - button "Cart, 2 items" [ref=e248]:
+          - generic [ref=e249]: "2"
+      - generic [ref=e250]: "Checkout: Overview"
+    - main [ref=e252]:
+      - generic [ref=e253]:
+        - generic [ref=e254]:
+          - generic [ref=e255]: QTY
+          - generic [ref=e256]: Description
+          - generic [ref=e257]:
+            - generic [ref=e258]: "1"
+            - generic [ref=e259]:
+              - button "View details for Sauce Labs Onesie" [ref=e260] [cursor=pointer]:
+                - generic [ref=e261]: Sauce Labs Onesie
+              - generic [ref=e262]: Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+              - generic [ref=e263]: $7.99
+          - generic [ref=e265]:
+            - generic [ref=e266]: "1"
+            - generic [ref=e267]:
+              - button "View details for Sauce Labs Backpack" [ref=e268] [cursor=pointer]:
+                - generic [ref=e269]: Sauce Labs Backpack
+              - generic [ref=e270]: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+              - generic [ref=e271]: $29.99
+        - generic [ref=e273]:
+          - generic [ref=e274]: "Payment Information:"
+          - generic [ref=e275]: "SauceCard #31337"
+          - generic [ref=e276]: "Shipping Information:"
+          - generic [ref=e277]: Free Pony Express Delivery!
+          - generic [ref=e278]: Price Total
+          - generic [ref=e279]: "Item total: $37.98"
+          - generic [ref=e280]: "Tax: $3.04"
+          - generic [ref=e281]: "Total: $41.02"
+          - generic [ref=e282]:
+            - button "Cancel" [ref=e283] [cursor=pointer]
+            - button "Finish" [ref=e284] [cursor=pointer]
+  - contentinfo [ref=e285]:
+    - list [ref=e286]:
+      - listitem [ref=e287]:
+        - link "X" [ref=e288] [cursor=pointer]:
+          - /url: https://x.com/saucelabs
+      - listitem [ref=e289]:
+        - link "Facebook" [ref=e290] [cursor=pointer]:
+          - /url: https://www.facebook.com/saucelabs
+      - listitem [ref=e291]:
+        - link "LinkedIn" [ref=e292] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/sauce-labs/
+    - generic [ref=e293]: © 2026 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy
