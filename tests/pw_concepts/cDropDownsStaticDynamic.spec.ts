@@ -136,7 +136,11 @@ test.only('Boostrap dropdown', async ({page}) =>{
 //    expect(text).toBe("Dashboard")
    await page.getByText('PIM').click()
    await page.getByText('-- Select --').nth(1).click()
-   const options = await page.locator("div[role='listbox'] span")
+    const options = await page.locator("div[role='listbox'] span").all();
+   for (let option of  options)
+   {
+    console.log(option.textContent());
+   }
     // await page.locator('.multiselect').click() // click on the dropdown
     
     //1
